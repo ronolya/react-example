@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "title": "Partie 1",
+        "location": "Zkirganove blabla",
+        "description": "Super puper cool party",
+        "date": 1562676685,
+        "private": 0,
+        "participants": [
+            { "name": "Olga", "email": "email@dot.com", "owner": 1 },
+            { "name": "Igor", "email": "email2@dot.com", "owner": 1 },
+            { "name": "Alex", "email": "email3@dot.com", "owner": 0 }
+       ]
+    },
+    {
+        "id": "2",
+        "title": "Partie 2",
+        "location": "Zibitskaya blabla",
+        "description": "Boring party",
+        "date": 1562678685,
+        "private": 1,
+        "participants": [
+            { "name": "Lena", "email": "somemail@dot.com", "owner": 0 },
+            { "name": "Eugene", "email": "somemail@dot.com", "owner": 0 },
+            { "name": "Alexandra", "email": "somemail@dot.com", "owner": 1 }
+       ]
+    }
+]
